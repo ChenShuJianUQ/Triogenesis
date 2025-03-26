@@ -12,13 +12,13 @@ It reproduces:
 - The total mass of the observable universe  
 - And more — all from first principles
 
-This repository supports the collaborative expansion of Triogenesis into various domains of physics, cosmology, quantum theory, information science, and consciousness studies.
+This repository supports the collaborative expansion of Triogenesis into various domains of physics, cosmology, quantum theory, information science, consciousness studies and beyond.
 
 ---
 
 ## 🚀 Get Involved
 
-We're building a collaborative map of how Triogenesis relates to existing physical theories and systems. You can contribute by:
+We're building a collaborative map of how Triogenesis relates to existing physical theories, phenomena, systems, tools, and applications. You can contribute by:
 
 - Suggesting mappings to known phenomena  
 - Building simulations or tools  
@@ -31,8 +31,8 @@ We're building a collaborative map of how Triogenesis relates to existing physic
 
 Triogenesis proposes that all emergent structure arises from a single recursive interaction rule — the generation of two directional uncertainties from one certainty. This produces a geometric buildup of quantized constraints ("straints") forming closed structures such as:
 
-- The 12-strain relativistic frame  
-- The 15-strain mass frame  
+- The 12-straint relativistic frame  
+- The 15-straint mass frame  
 - The 173-layer recurrence limit
 
 ---
